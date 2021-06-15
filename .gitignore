@@ -56,6 +56,3 @@ pom.xml.releaseBackup
 pom.xml.tag
 /bin/
 /deps/
-
-# Exceptions
-!/de/tr7zw/*
